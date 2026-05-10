@@ -1,5 +1,3 @@
-venv/
+fsl-training/venv/
 __pycache__/
 *.pyc
-*.pth
-*.pt
