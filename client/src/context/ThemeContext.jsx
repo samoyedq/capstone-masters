@@ -10,7 +10,7 @@ const ThemeProvider = ({ children }) => {
     }
     
     useEffect(() => {
-        // Remove both classes first
+       
         document.documentElement.classList.remove('light', 'dark');
         
         if (theme === 'dark') {
